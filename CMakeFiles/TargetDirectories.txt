@@ -1,0 +1,3 @@
+/home/johntebrown0321/Github/Nexus-Release-Test/CMakeFiles/rebuild_cache.dir
+/home/johntebrown0321/Github/Nexus-Release-Test/CMakeFiles/edit_cache.dir
+/home/johntebrown0321/Github/Nexus-Release-Test/CMakeFiles/MyProject.dir

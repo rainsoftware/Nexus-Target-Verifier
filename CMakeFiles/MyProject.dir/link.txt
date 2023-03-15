@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/MyProject.dir/Nexus_Release_v1/src/test/main.cpp.o -o bin/output/MyProject  -lpthread 
