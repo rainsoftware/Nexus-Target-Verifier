@@ -1,6 +1,7 @@
 # Nexus Target verifier 🎯
 ---
 > **THIS DOES REQUIRE THE LINUX BETA TO WORK, ANYTHING NEXUS RELATED REQUIRES LINUX ENABLED**
+
 > To use this install & run cmake
 ```bash
 sudo apt-get install cmake -y
