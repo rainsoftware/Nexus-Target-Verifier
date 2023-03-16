@@ -10,5 +10,5 @@ sudo apt-get install cmake -y
 ```bash 
 sudo cmake CMakeLists.txt
 ```
----
 > from there your ready to go, your extracted version of Nexus should be in your desktop folder, if you don't have a Desktop folder **create one**.
+---
