@@ -13,5 +13,5 @@
 
 Email: meekoo459@proton.me
 
-this email is a automated account expected a response and update on a report
+this email is a automated account expect a response and update on a report
 in 2 hours - 2 weeks.
