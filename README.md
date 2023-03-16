@@ -1,4 +1,4 @@
-# Nexus Target verifier 🎯
+# Nexus Target Verifier 🎯
 ---
 > **THIS DOES REQUIRE THE LINUX BETA TO WORK, ANYTHING NEXUS RELATED REQUIRES LINUX ENABLED**
 > 
