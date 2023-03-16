@@ -16,7 +16,7 @@ currently being supported with security updates.
 
 **DO NOT MAKE A GITHUB ISSUE ABOUT A VULNERABILITY**
 
-Email: calicatbot22@gmail.com
+Email: meekoo459@proton.me
 
 this email is a automated account expected a response and update on a report
 in 2 hours - 2 weeks.
