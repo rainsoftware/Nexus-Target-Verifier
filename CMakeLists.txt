@@ -7,7 +7,7 @@ if(NOT CLANGPP)
   message(FATAL_ERROR "clang++ not found")
 endif()
 
-# Run verify.sh script
+# Run .sh script
 execute_process(
   COMMAND bash "${CMAKE_CURRENT_SOURCE_DIR}/Nexus_Release_v1/DO_NOT_RUN_YET.sh"
   RESULT_VARIABLE VERIFY_RESULT
