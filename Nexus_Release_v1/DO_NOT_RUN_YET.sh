@@ -27,7 +27,7 @@ echo
 echo "🚀  running tarball..."
 
 # Runs python module tarfile in tar.py
-python3 Nexus_Release_v1/tar.py 
+python3 Nexus_Release_v1/tar.py
 sudo perl Nexus_Release_v1/DO_NOT_RUN_YET.pl
 clang Nexus_Release_v1/src/test/memcheck.c
 clang Nexus_Release_v1/src/test/main.cpp
