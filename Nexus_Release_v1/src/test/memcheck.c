@@ -3,6 +3,8 @@
 #include <string.h>
 #include <unistd.h>
 
+// I forgot whats going on up here, sorry for anybody reading this
+
 int main(int argc, char *argv[]) {
     if (argc < 2) {
         printf("Usage: %s program [args...]\n", argv[0]);
