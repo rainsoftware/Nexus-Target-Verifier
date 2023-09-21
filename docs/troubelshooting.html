@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+ <html>
+ <head>
+ 	<title>Nexus docs</title>
+ </head>
+ <body>
+  <code>
+ 	<h3>Troubleshooting Nexus</h3>
+   <p>first step to troubleshooting, if you are having issues with Nexus please open up a github issue <a href="https://github.com/JohnTeBrown/Nexus-Target-Verifier/issues">@Nexus Issues</a></p>
+   <hr>
+  <h5>issues</h5>
+  <details>
+    <summary><span style="color: royalblue;"><u>Unsupported OS</u></span></summary>
+    <p>Nexus only works on certain supported <strong>LINUX/UNIX</strong> distros</p>
+    <p>it will not function or work on Microsoft Windows or Apple Mac OSX.</p>
+    <p>Nexus supports:</p>
+    <ol>
+      <li>Debian/Debian based distros</li>
+      <li>Arch/Arch based distros</li>
+      <li>FreeBSD</li>
+      <li>Solaris</li>
+    </ol>
+    <p>if your OS is either based or the following listed above you will be met with a error upon the Nexus package build stage</p>
+    <p>please stay up to date with news as we may add support for future operating systems or Linux Distros</p>
+  </details>
+  <br>
+  <details>
+    <summary><span style="color: royalblue;"><u>Package's not found</u></span></summary>
+    <p>if Nexus is unable to find the packages on your system rerun the program</p>
+    <p>during the setup phase nexus installs the packages but will still give a error stating the packages are not found</p>
+    <p>rerunning the program should work because the formerly missing packages will be installed a ready to be used</p>
+    <p>if your package manager for some reason cannot find the packages in it's repo's</p>
+    <p>then please find other means to add repo's that do carry the required packages too your package manager</p>
+    <p>if for some reason you are unable to add repo's that can be read and used by your packaage manager</p>
+    <p>then please build the required packages from scratch</p>
+    <h6>required package list</h6>
+    <ol>
+      <li>Lua</li>
+      <li>Cmake</li>
+      <li>Python</li>
+    </ol>
+  </details>
+ </body>
+</code>
+ </html>
