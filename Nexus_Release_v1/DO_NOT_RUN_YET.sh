@@ -8,12 +8,12 @@
 sudo apt install clang -y
 
 
-# Verify file with fancy structure
+# Verify file with fancy structure :)
 echo "Verifying your file"
 echo "===================="
 echo
 
-# Prints a random reused bash script with ASCII text
+# prints a random bash script with ascii text idk lol
 echo "      __  __          __      __     _       "
 echo "     / / / /___  ____/ /___ _/ /_  _| |_ ___ "
 echo "    / /_/ / __ \/ __  / __ \`/ __ \/ __/ __ \\"
