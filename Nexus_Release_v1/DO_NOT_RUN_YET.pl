@@ -32,5 +32,5 @@ if ($distro eq "arch") {
     die "Unsupported distribution";
 }
 
-# Download the packages
+# forgot, I think it downloads the packages
 system("$package_manager lua cmake python");
