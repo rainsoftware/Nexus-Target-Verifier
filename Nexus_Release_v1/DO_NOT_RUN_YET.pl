@@ -15,7 +15,7 @@ if (-e "/etc/os-release") {
     $distro = `head -n1 /etc/release | awk '{print \$1}'`;
     chomp($distro);
 } else {
-    die "Unsupported distribution";
+    die "Unsupported distribution please change your distribution type.";
 }
 
 # Set the package manager command based on the detected distribution
@@ -29,7 +29,7 @@ if ($distro eq "arch") {
 } elsif ($distro eq "solaris") {
     $package_manager = "pkgutil -y -i";
 } else {
-    die "Unsupported distribution";
+    die "Unsupported distribution please change your distribution type.";
 }
 
 # forgot, I think it downloads the packages
