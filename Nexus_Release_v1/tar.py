@@ -6,6 +6,6 @@ def extract_tar_archive(archive_file, dest_dir):
     with tarfile.open(archive_file, 'r:gz') as tar:
         tar.extractall(dest_dir)
 
-archive_file = 'build/Nexus.tar.gz'
+archive_file = 'build/Nexus-1.0-linux.tar.gz'
 dest_dir = '~/Desktop'
 extract_tar_archive(archive_file, dest_dir)
